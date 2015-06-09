@@ -380,10 +380,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/afyonltetmo/proprietary/etc/alp_cal.dat:system/etc/alp_cal.dat \
     vendor/samsung/afyonltetmo/proprietary/etc/alps_param.dat:system/etc/alps_param.dat
 
-# WiFi
-PRODUCT_COPY_FILES += \
-    vendor/samsung/afyonltetmo/proprietary/lib/libqsap_sdk.so:system/lib/libqsap_sdk.so
-
 # Misc
 PRODUCT_COPY_FILES += \
     vendor/samsung/afyonltetmo/proprietary/bin/port-bridge:system/bin/port-bridge \
