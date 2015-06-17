@@ -248,7 +248,7 @@ key 225   BRIGHTNESS_UP
 key 226   HEADSETHOOK
 
 # samsung
-key 254   MENU
+key 254   APP_SWITCH
 
 key 256   BUTTON_1
 key 257   BUTTON_2
